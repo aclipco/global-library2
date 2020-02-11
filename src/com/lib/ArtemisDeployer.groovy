@@ -72,3 +72,4 @@ node {
 		 subject: "Artemis ${Version} has been deployed", to: "${EMAIL_TO_SEND}"
 	}
 }
+}
